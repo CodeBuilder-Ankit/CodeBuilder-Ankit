@@ -37,10 +37,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats:
-
+## 🚀 My GitHub Stats
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-kumar&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kumar&layout=compact&theme=radical&hide=html,css,scss)
+
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
